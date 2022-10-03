@@ -1,5 +1,8 @@
 # P1_el_tiempo
 Práctica 1 para la asignatura de Ingeniería Web, ETSIT UPM.
+Tecnologías utilizadas:
+> React
+> Node.js
 
 ## Para correr el servidor:
 ```
